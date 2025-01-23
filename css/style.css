@@ -141,9 +141,8 @@ h1 {
 }
 @media (min-width: 1000px) {
   .card {
-    height: 61vh;
-    max-height: 575px;
-    min-width: 700px;
+    height: 440px;
+    min-width: 650px;
     display: flex;
   }
   .card__img {
